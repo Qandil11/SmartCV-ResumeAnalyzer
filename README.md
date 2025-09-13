@@ -23,10 +23,12 @@ It analyzes resumes for best practices and matches them against job descriptions
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots and Video
+<img width="1080" height="2400" alt="resume1" src="https://github.com/user-attachments/assets/e1e455e6-7141-477b-9c78-bba3b868bc17" />
 
-> _(Add screenshots here once available — e.g., analysis results screen, JD match screen)_
+<img width="1080" height="2400" alt="resume2" src="https://github.com/user-attachments/assets/f5cb128a-c042-459d-8f55-1e9c222796d9" />
 
+https://youtube.com/shorts/p_aBx-PjTWk?feature=share
 ---
 
 ## 🛠 Tech Stack
