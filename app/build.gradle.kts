@@ -40,7 +40,12 @@ dependencies {
     implementation("androidx.compose.ui:ui-tooling-preview")
     implementation("androidx.compose.material3:material3")
     debugImplementation("androidx.compose.ui:ui-tooling")
+    // ✅ Unit tests
+    testImplementation(libs.junit)
 
+    // ✅ Instrumentation tests (keeps AGP happy even if you don’t run them)
+    androidTestImplementation(libs.androidx.junit)
+    androidTestImplementation(libs.androidx.espresso.core)
     // PDF text extraction
     implementation("com.tom-roush:pdfbox-android:2.0.27.0")
 
